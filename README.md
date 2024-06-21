@@ -49,6 +49,8 @@ This project is part of the Enterprise Web Development course and focuses on bui
 - SQLalchemy
 - Git
 
+## link to the live
+https://waste-management-1.onrender.com
 ### Installation
 
 1. *Clone the repository*
