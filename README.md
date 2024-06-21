@@ -49,6 +49,10 @@ This project is part of the Enterprise Web Development course and focuses on bui
 - SQLalchemy
 - Git
 
+## link to slides
+https://www.canva.com/design/DAGIrs71C70/Y6ImXO8hVkZqY01I0y4s7w/edit?utm_content=DAGIrs71C70&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
 ## link to the live
 https://waste-management-1.onrender.com
 ### Installation
